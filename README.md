@@ -2,7 +2,8 @@
 Fish move detection with image processing (opencv in python)
 Bu projede akvaryumdaki balıkların tespiti ve hareketli/hareketsiz 
 olma durumlarının balıklar üzerine yazdırılması gerçeklenmiştir. 
-Projeyi , ben ve takım arkadaşım Ufuk Ercan beraber hazırladık.
+Projeyi , ben ve takım arkadaşım Ufuk Ercan https://github.com/ufukercan
+beraber hazırladık.
 Videolu açıklama linki : https://www.youtube.com/watch?v=65JzNoyjHzo4
 
 How to use :
